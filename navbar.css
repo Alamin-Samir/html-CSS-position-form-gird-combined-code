@@ -1,0 +1,47 @@
+
+
+
+.menu{
+
+   background-color: orange;
+}
+
+.menu ul {
+
+margin: 5px;
+
+
+}
+
+.menu ul li{
+
+    display: flex;
+
+}
+
+.menu ul li{
+
+display:inline-block;
+
+}
+
+
+.menu ul li a {
+
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid black;
+    border-right: 1px solid;
+}
+
+.menu ul li a :hover{
+
+
+
+color: rgb(0, 0, 0);
+
+
+}
+
+

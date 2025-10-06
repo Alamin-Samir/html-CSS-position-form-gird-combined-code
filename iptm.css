@@ -1,0 +1,42 @@
+*{
+
+background-color: rgb(226, 229, 234);
+font-size: 15px;
+margin: 3px;
+padding: 5px;
+}
+
+h3{
+font-size: 20px;
+
+text-align: center;
+
+}
+
+
+.form1{
+
+background-color: rgb(224, 35, 54);
+color: rgb(15, 162, 86);
+
+text-align: center;
+font-size: 10px;
+margin: 0 auto;
+border-radius: 10px;
+}
+
+.close{
+background-color: red;
+
+width: 8pxpx;
+border: 1px solid black;
+
+border-radius: 5px;
+justify-content: center;
+align-items: center;
+position: absolute;
+padding: 12px;
+top: -10px;
+right:-10px
+
+}
